@@ -1,0 +1,9 @@
+,test_mean_squared_error,test_mean_absolute_error,test_mean_absolute_percentage_error,test_mean_r2
+GradientBoostingRegressor,0.0465,0.1270,0.0118,0.6455
+RandomForestRegressor,0.0629,0.1721,0.0161,0.4584
+DecisionTreeRegressor,0.0877,0.1911,0.0179,0.3100
+XGBRegressor,0.0478,0.1315,0.0124,0.5916
+LinearRegression,0.0529,0.1869,0.0176,0.5044
+RidgeRegression,0.0997,0.2319,0.0217,0.0924
+SVR,0.0338,0.1308,0.0122,0.7134
+KNeighborsRegressor,0.0222,0.0988,0.0093,0.8105
